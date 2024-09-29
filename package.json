@@ -1,0 +1,25 @@
+{
+  "name": "xid-do",
+  "version": "0.0.1",
+  "description": "xid backed by CloudFlare durable object",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sher/xid-do.git"
+  },
+  "keywords": [
+    "xid",
+    "durable",
+    "object",
+    "cloudflare"
+  ],
+  "author": "sher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sher/xid-do/issues"
+  },
+  "homepage": "https://github.com/sher/xid-do#readme"
+}
